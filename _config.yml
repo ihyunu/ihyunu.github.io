@@ -130,7 +130,7 @@ author:
       # url: "https://facebook.com/"
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://ihyunu.github.io/"
+      url: "https://github.com/ihyunu"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "ihyunu.github.io"
+      url: "https://github.com/ihyunu"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
