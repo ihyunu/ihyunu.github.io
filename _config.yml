@@ -119,9 +119,6 @@ author:
   location         : "Seoul, Korea"
   email            : "bylhw1234@email.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "bylhw1234@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
