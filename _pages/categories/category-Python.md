@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Posts by Python"
+title: "Python"
 permalink: /categories/python
 author_profile: true
 toc: true

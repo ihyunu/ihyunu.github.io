@@ -6,6 +6,9 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+sidebar-blog:
+  - title: "Python"
+    url: "/categories/python"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
