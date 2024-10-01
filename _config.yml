@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "새 시작"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "ihyunu"
+name                     : "Hyunwoo Lee"
 description              : "자격증, 공부한것들"
 url                      : "https://ihyunu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,12 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "이현우"
+  name             : "Lee Hyunwoo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "데이터분석 공부하는 학생입니다."
   location         : "Seoul, Korea"
-  email            : "bylhw1234@email.com"
+  email            : 
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:bylhw1234@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
