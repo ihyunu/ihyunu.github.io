@@ -3,37 +3,23 @@ permalink: /about/
 title: "About"
 excerpt: "About Me"
 search: true
-last_modified_at: 2020-01-23T13:00:00+09:00
 toc: true
 
 --- 
 
-## Profile
-<center><img src="/assets/img/me.jpg" width="30%" height="30%" style="
-border: 1px solid #cab6de;
-border-radius: 50%;
-padding: 5px;
--moz-border-radius: 50%;
--khtml-border-radius: 50%;
--webkit-border-radius: 50%;
-"></center>
-
-
-* NAME : JiWon, Hyeon
-* MAJOR : Computer Science Engineering
+* NAME : 이현우
+* MAJOR : 인공지능학과
 
 ## Career & Activities
- - Undergraduate resercher at Embedded System LAB (2018.06 ~ 2020.12)
- - LikeLion 7th @SCH (2019.03 ~ 2019.12)
+ - 서울사이버대학교 3학년 재학중
 
 ## Current Interest
- * Bigdata
- * Android Applicaiton 
- * Web Development
- * Internet of Things
+ * 데이터 분석
+ * 데이터 시각화 
+ * 딥러닝
 
 ## Contact
- * Email : zlone1208@gmail.com
- * Git : [https://github.com/Hyeonjiwon](https://github.com/Hyeonjiwon)
- * Blog : [https://hyeonjiwon.github.io/](https://hyeonjiwon.github.io/)
+ * Email : bylhw1234@gmail.com
+ * Git : [https://github.com/ihyunu](https://github.com/ihyunu)
+ * Blog : [https://ihyunu.github.io/](https://ihyunu.github.io/)
 
