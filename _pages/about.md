@@ -6,7 +6,7 @@ search: true
 toc: true
 
 --- 
-
+## Name & Major
 * NAME : 이현우
 * MAJOR : 인공지능학과
 
