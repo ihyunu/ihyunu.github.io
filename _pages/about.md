@@ -13,7 +13,14 @@ toc: true
 * MAJOR : 인공지능학과
 
 ## Career & Activities
- - 서울사이버대학교 3학년 재학중
+* 서울사이버대학교 3학년 재학중
+
+## Certification
+* GA4(Google Analytics 4)
+* ADsP
+* SQLD
+* 컴퓨터활용능력 1급
+* 사무자동화산업기사
 
 ## Current Interest
  * 데이터 분석
