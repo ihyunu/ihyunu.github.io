@@ -12,15 +12,22 @@ toc: true
 * NAME : 이현우
 * MAJOR : 인공지능학과
 
-## Career & Activities
-* 서울사이버대학교 3학년 재학중
+## 이력 및 활동
+* 교내 제 1회 인공지능 경진대회 우수상
+* AWS Academy Cloud Foundations 수료
 
-## Certification
+## 자격증
 * GA4(Google Analytics 4)
 * ADsP
 * SQLD
 * 컴퓨터활용능력 1급
 * 사무자동화산업기사
+
+## 사용 언어
+* Python
+* C
+* Java
+* Javascript
 
 ## Current Interest
  * 데이터 분석
