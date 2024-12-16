@@ -30,3 +30,5 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+eval SSH_AUTH_SOCK=/var/folders/8b/_y2lc7716x3_xyv57ylb7fcw0000gn/T//ssh-YkT4CQPS6rJR/agent.5537; export SSH_AUTH_SOCK; SSH_AGENT_PID=5538; export SSH_AGENT_PID; echo Agent pid 5538;
+/Users/ihyunu/ihyunu.github.io/eval\ "$\(ssh-agent\ -s\)".pub
