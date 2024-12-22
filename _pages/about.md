@@ -13,9 +13,9 @@ toc: true
 * MAJOR : 인공지능학과
 
 ## 이력 및 활동
-* [교내 제 1회 인공지능 모델링 경진대회 우수상](https://www.kaggle.com/competitions/scu-ai-competition-202401/leaderboard)
-* [교내 제 2회 인공지능 모델링 경진대회 최우수상(당뇨병 예측)](https://www.kaggle.com/competitions/2-ai/leaderboard)
-* [교내 제 2회 인공지능 모델링 경진대회 최우수상(고객대출등급예측)](https://www.kaggle.com/competitions/2-ai-loan/leaderboard)
+* 교내 제 1회 인공지능 모델링 경진대회 우수상(갑상선 질환 예측 이진분류)
+* 교내 제 2회 인공지능 모델링 경진대회 최우수상(당뇨병 예측 이진분류)
+* 교내 제 2회 인공지능 모델링 경진대회 최우수상(고객대출등급 예측 다중분류)
 * [AWS Academy Cloud Foundations 수료](https://www.credly.com/badges/1f43e2d3-e5fd-4453-83fe-642a1283fbd9)
 
 ## 자격증
@@ -35,7 +35,8 @@ toc: true
  * 데이터 분석
  * 데이터 시각화 
  * 딥러닝
-
+ * 자연어 처리
+ 
 ## Contact
  * Email : bylhw1234@gmail.com
  * Git : [https://github.com/ihyunu](https://github.com/ihyunu)
