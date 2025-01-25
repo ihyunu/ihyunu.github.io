@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 excerpt: "About Me"
 search: true
-last_modified_at: 2024-10-01T07:09:19+09:00
+last_modified_at: 2025-01-25T07:09:19+09:00
 toc: true
 
 --- 
@@ -17,6 +17,7 @@ toc: true
 * [AWS Academy Cloud Foundations 수료](https://www.credly.com/badges/1f43e2d3-e5fd-4453-83fe-642a1283fbd9)
 * 교내 제 2회 인공지능 모델링 경진대회 최우수상(당뇨병 예측 이진분류)
 * 교내 제 2회 인공지능 모델링 경진대회 최우수상(고객대출등급 예측 다중분류)
+* 교내 오렌지3를 활용한 인공지능 경진대회 대상(당뇨병 예측 이진분류)
 
 ## Certification
 * GA4(Google Analytics 4)
