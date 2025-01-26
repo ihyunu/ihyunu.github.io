@@ -1,13 +1,3 @@
----
-permalink: /about/
-title: "About"
-excerpt: "About Me"
-search: true
-last_modified_at: 2025-01-25T07:09:19+09:00
-toc: true
-
---- 
-
 ## Information
 * NAME : 이현우
 * MAJOR : 인공지능학과
